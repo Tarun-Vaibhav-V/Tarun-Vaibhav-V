@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hey, I’m Tarun!<br><br>    🔧 Currently working on: Exciting projects in the AR/VR space.<br>    🤝 Open to collaborating with: Developers, designers, and entrepreneurs who love building scalable solutions.<br>    📖 Currently learning: Full-stack web development and working on my foundation using the roadmap.sh guide.<br>    💬 Ask me about: Python, Django, AI projects, engineering concepts, or starting with web development.<br>    🎉 Fun fact: I’m a CSE freshman at VIT Chennai, already exploring new frontiers in tech!
+Hey, I’m Tarun Vaibhav V !<br><br>    🔧 Currently working on: Exciting projects in the AR/VR space.<br>    🤝 Open to collaborating with: Developers, designers, and entrepreneurs who love building scalable solutions.<br>    📖 Currently learning: Full-stack web development and working on my foundation using the roadmap.sh guide.<br>    💬 Ask me about: Python, Django, AI projects, engineering concepts, or starting with web development.<br>    🎉 Fun fact: I’m a CSE freshman at VIT Chennai, already exploring new frontiers in tech!
 
 
 ## 🌐 Socials:
